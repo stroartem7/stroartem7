@@ -2,6 +2,13 @@
 
 Junior Android Developer focused on Kotlin and Jetpack Compose.
 
+## About Me
+
+* 📱 Building Android apps with Kotlin
+* 🤖 Interested in AI integration in mobile apps
+* 🌱 Currently learning Clean Architecture & MVVM
+* 🚀 Looking for my first Android Developer position
+
 ## Tech Stack
 
 * Kotlin
@@ -30,13 +37,6 @@ Features:
 
 Repository:
 https://github.com/stroartem7/MyHOLODOS
-
-## Currently Learning
-
-* Clean Architecture
-* MVVM
-* Dependency Injection (Hilt)
-* Android Testing
 
 ## Contact
 
