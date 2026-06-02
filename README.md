@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Artem 👋
 
-<!--
-**stroartem7/stroartem7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Android Developer focused on Kotlin and Jetpack Compose.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Kotlin
+* Jetpack Compose
+* Android SDK
+* Room Database
+* Retrofit
+* Coroutines
+* Git & GitHub
+* REST API
+* YandexGPT API
+
+## Projects
+
+### MyHOLODOS 🧊
+
+AI-powered Android application for recipe recommendations and meal planning.
+
+Features:
+
+* AI recommendations via YandexGPT
+* Shopping list
+* Favorites
+* Room database
+* Modern Compose UI
+
+Repository:
+https://github.com/stroartem7/MyHOLODOS
+
+## Currently Learning
+
+* Clean Architecture
+* MVVM
+* Dependency Injection (Hilt)
+* Android Testing
+
+## Contact
+
+Email: [stroartem7@gmail.com](mailto:stroartem7@gmail.com)
