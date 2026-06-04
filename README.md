@@ -10,7 +10,7 @@
 
 # Hi, I'm Artem 👋
 
-Junior Android Developer focused on Kotlin and Jetpack Compose.
+Android Developer focused on Kotlin and Jetpack Compose.
 
 ## About Me
 
