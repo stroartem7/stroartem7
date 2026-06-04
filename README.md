@@ -6,6 +6,8 @@
 <img width="376" height="761" alt="2026-06-04_19-17-50" src="https://github.com/user-attachments/assets/f3026748-67f4-447b-b125-552602413bfa" />
 <img width="373" height="766" alt="2026-06-04_19-15-14" src="https://github.com/user-attachments/assets/0e895052-6da3-48a5-84b3-d5333b2ee0ac" />
 <img width="358" height="758" alt="2026-06-04_19-22-07" src="https://github.com/user-attachments/assets/7aa4a766-6ff2-444a-900e-e252bcc5dbda" />
+
+
 # Hi, I'm Artem 👋
 
 Junior Android Developer focused on Kotlin and Jetpack Compose.
