@@ -28,6 +28,11 @@ Android Developer focused on Kotlin and Jetpack Compose.
 
 AI-powered Android application for recipe recommendations and meal planning.
 
+![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue)
+![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-green)
+![Android](https://img.shields.io/badge/Android-34-brightgreen)
+![YandexGPT](https://img.shields.io/badge/AI-YandexGPT-orange)
+
 <img width="250" height="500" alt="2026-06-04_19-21-13" src="https://github.com/user-attachments/assets/f8908566-b592-4f7b-9b2f-dfe24babfdcd" />
 <img width="250" height="500" alt="2026-06-04_19-20-42" src="https://github.com/user-attachments/assets/22d1be2c-fedc-4dca-b96c-69d1ca45e316" />
 <img width="250" height="500" alt="2026-06-04_19-20-15" src="https://github.com/user-attachments/assets/41a7746c-af85-44bd-9b92-e067287b001d" />
